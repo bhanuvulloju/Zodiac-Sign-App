@@ -1,0 +1,12 @@
+total 31
+-rw-r--r-- 1 bhanu 197609 2087 Sep 30 08:16 README.md
+-rw-r--r-- 1 bhanu 197609   19 Sep 30 08:29 ab.txt
+drwxr-xr-x 1 bhanu 197609    0 Sep 30 08:16 app/
+-rw-r--r-- 1 bhanu 197609  553 Sep 30 08:16 build.gradle
+drwxr-xr-x 1 bhanu 197609    0 Sep 30 08:16 gradle/
+-rw-r--r-- 1 bhanu 197609 1111 Sep 30 08:16 gradle.properties
+-rwxr-xr-x 1 bhanu 197609 5468 Sep 30 08:16 gradlew*
+-rw-r--r-- 1 bhanu 197609 2260 Sep 30 08:16 gradlew.bat
+-rw-r--r-- 1 bhanu 197609    0 Sep 30 08:47 ls-files.txt
+drwxr-xr-x 1 bhanu 197609    0 Sep 30 08:16 screenshot/
+-rw-r--r-- 1 bhanu 197609   49 Sep 30 08:16 settings.gradle
